@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 27 19" width="27" height="19">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #000000 } 
+	</style>
+	<g id="footer">
+		<path id="email" class="shp0" d="M17.9 8.76L26.63 1.52L26.63 18.96L17.9 8.76ZM0.44 0.6L26.56 0.6L13.5 11.36L0.44 0.6ZM13.5 12.42L17.33 9.24L25.65 18.97L1.35 18.97L9.67 9.34L13.5 12.42ZM9.06 8.76L0.34 1.52L0.34 18.96L9.06 8.76Z" />
+	</g>
+</svg>
